@@ -1,8 +1,24 @@
-# React + Vite
+# TODO APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Technical Functionalities:
 
-Currently, two official plugins are available:
+  1. This is a web page todo list maker app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  2. You can Create, Edit & Delete Todos here.
+
+  3. Click on 'Edit' for Todos which are completed are write DONE/ COMPLETE.
+
+
+## Operational Functionalities:
+
+   1. User doesn't need to login to use.
+
+   2. Your Todos are saved in Browser's local storage.
+
+   3. After refreshing the Todo page/Close-Reopen &&
+      Browser closing/opening still your Todo-List will be there as it is.
+
+
+## Note:
+   ### This Todo-App list is Browser dependent
+   ### You can not view 1-browsered made list into another-browser.
